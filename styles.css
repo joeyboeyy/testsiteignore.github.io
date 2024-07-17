@@ -183,3 +183,8 @@ iframe {
     left: 0;
     vertical-align: top;
 }
+.chart-container {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
